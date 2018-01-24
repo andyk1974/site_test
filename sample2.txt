@@ -1,1 +1,1 @@
-sample2 new change for master branch
+sample2 + sample 1 for new branch
